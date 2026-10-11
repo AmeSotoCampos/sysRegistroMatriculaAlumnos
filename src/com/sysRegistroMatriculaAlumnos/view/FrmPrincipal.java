@@ -1,3 +1,10 @@
+/**
+Descripción: FrmPrincipal.java, es la clase principal del sistema de registro y matricula de alumnos, que contiene el menú principal y los paneles correspondientes a cada módulo del sistema.
+@author America Soto Campos
+@version 1.0
+@since 4/10/2026
+*/
+
 package com.sysRegistroMatriculaAlumnos.view;
 
 import java.awt.BorderLayout;

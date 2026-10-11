@@ -1,3 +1,10 @@
+/**
+Descripción:clase que representa la ventana de inicio de sesión del sistema de registro y matrícula de alumnos. Permite al usuario ingresar su nombre de usuario y contraseña para acceder al sistema.
+@author America Soto Campos
+@version 1.0
+@since 4/10/2026
+*/
+
 package com.sysRegistroMatriculaAlumnos.view;
 
 import java.awt.BorderLayout;
